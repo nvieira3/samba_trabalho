@@ -1,2 +1,3 @@
 # samba_trabalho
-Trabalho de Samba proposto pelo formador
+
+O script backup.sh precisa da permissão sudo.
